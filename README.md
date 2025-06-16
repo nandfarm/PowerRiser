@@ -23,8 +23,6 @@ PowerRiser was developed to:
 
 - Allow installation of short NVMe drives (2230/2242) without obstruction.
 
-- Preserve the ability to use the NVMe connection.
-
 - Provide an open-ended x8 PCIe connector that can accept longer x16 PCIe cards (electrically still x8).
 
 Physically, the only modification required is removing the front metal bracket that holds the Bluetooth antenna. (Please refer to the photos in the repo for installation examples, including with an x16 graphics card installed.)
