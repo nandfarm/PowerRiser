@@ -14,6 +14,8 @@ PowerRiser is a custom-designed passive riser board that allows you to break out
 
 ⚠ Please note: The additional M.2 slot supports only PCIe NVMe drives, not SATA drives.
 
+<a href="https://www.tindie.com/stores/nandfarm/?ref=offsite_badges&utm_source=sellers_NandFarm&utm_medium=badges&utm_campaign=badge_small"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-smalls.png" alt="I sell on Tindie" width="200" height="55"></a>
+
 ## Background
 This project is inspired by the [TinyRiser](https://github.com/a-little-wifi/Tinyriser)  board originally designed by [WifiCable](https://x.com/wificable_). After building a batch of [TinyRisers](https://github.com/a-little-wifi/Tinyriser) for personal use and realizing some of my Lenovo Tiny systems had clearance issues (due to the WiFi/BT expansion boards), I decided to create my own variant — which I now call PowerRiser. If you are considering using 2260 or 2280 (with caution) NVMEs, please connect with [WifiCable](https://x.com/wificable_) for details on how to acquire the [TinyRiser](https://github.com/a-little-wifi/Tinyriser).
 
