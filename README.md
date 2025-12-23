@@ -56,6 +56,44 @@ However, any modifications and derived works must also be distributed under the 
 
 For full license terms, please refer to [CERN-OHL-S](https://ohwr.org/project/cernohl/wikis/home).
 
+## Reports from buyers
+
+As some amy know I have sent a mass email to everyone who bought this board to ask what drive they are using and if they had issues with them. So many replies! Thank you all for the support. Below is the list with everything I received. I will update it as things come in. Keep in mind that this is not an exhaustive list. There are many moderls of drives out there and all should be compatible. If you do find anything let me know!
+
+SSDs reported OK:
+
+
+- Crucial P310 2230 1TB
+
+- Sabrent Rocket 2230 1TB (SB-2130-1TB)
+
+- Kingston NV3 2230-SNV3SM3/1T0
+
+- WD Black SN770M 2000 GB M.2 2230
+
+- Corsair MP600 Micro 2TB
+
+- Intel DC P3605 1.6TB
+
+- Micron 2400 Series MTFDKBK256TGE 256GB
+
+- ADATA Legend 710 256GB
+
+- Intel Optane M10 MEMPEK1J016GAH 16GB
+
+
+
+
+Issues reported:
+
+
+- SK Hynix 2230 PVC10 1TB -> reported as not detected at all
+
+- SK Hynix 2230 BC711 512GB -> works but ASPM needs to be turned off in bios, or disable the L1.1 and L1.2 substates in the OS.
+
+- Micron 2400 Series MTFDKCD1T0QFM 1TB -> gets detected at Windows startup but then dissapears. Probably also a ASPM related issue but no further tests were made.
+
+
 ## Disclaimer
 ⚠ Use at your own risk.
 By using, manufacturing, or assembling this board, you accept that:
