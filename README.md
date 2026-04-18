@@ -14,6 +14,8 @@ PowerRiser is a custom-designed passive riser board that allows you to break out
 
 ⚠ Please note: The additional M.2 slot supports only PCIe NVMe drives, not SATA drives.
 
+<a href="https://lectronz.com/stores/nandfarm" alt="I sell on Lectronz"><img src="https://lectronz-images.b-cdn.net/static/badges/i-sell-on-lectronz-small.png" /></a>
+
 <a href="https://www.tindie.com/stores/nandfarm/?ref=offsite_badges&utm_source=sellers_NandFarm&utm_medium=badges&utm_campaign=badge_small"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-smalls.png" alt="I sell on Tindie" width="200" height="55"></a>
 
 ## Background
