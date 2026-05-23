@@ -2,7 +2,15 @@
 
 ![Front view of V2 of the board](https://github.com/nandfarm/PowerRiser/blob/main/Photos/2025-05-22T19_36_39.707Z-Media%20(24).jpg)
 
+# Buy preassembled boards:
 
+Best for European locations (EUR currency):</br>
+<a href="https://lectronz.com/stores/nandfarm" alt="I sell on Lectronz"><img src="https://lectronz-images.b-cdn.net/static/badges/i-sell-on-lectronz-small.png" /></a>
+
+Best for International locations (USD currency):</br>
+<a href="https://www.tindie.com/stores/nandfarm/?ref=offsite_badges&utm_source=sellers_NandFarm&utm_medium=badges&utm_campaign=badge_small"><img src="https://static.tindie.com/badges/tindie-smalls.png" alt="I sell on Tindie" width="200" height="55"></a>
+
+# PowerRiser Board
 
 PowerRiser is a custom-designed passive riser board that allows you to break out the proprietary Lenovo Tiny 5 series PCIe connector into a standard open-ended x8 PCIe slot, while also providing an additional M.2 NVMe slot (2230/2242 sizes only) for further storage expansion. This board was specifically designed for select Lenovo Tiny 5 series systems (8th/9th gen), such as:
 
@@ -13,14 +21,6 @@ PowerRiser is a custom-designed passive riser board that allows you to break out
 - ThinkCentre M920x
 
 - ThinkStation P330 Tiny
-
-# Buy preassembled boards:
-
-Best for European locations (EUR currency)
-<a href="https://lectronz.com/stores/nandfarm" alt="I sell on Lectronz"><img src="https://lectronz-images.b-cdn.net/static/badges/i-sell-on-lectronz-small.png" /></a>
-
-Best for International locations (USD currency)
-<a href="https://www.tindie.com/stores/nandfarm/?ref=offsite_badges&utm_source=sellers_NandFarm&utm_medium=badges&utm_campaign=badge_small"><img src="https://static.tindie.com/badges/tindie-smalls.png" alt="I sell on Tindie" width="200" height="55"></a>
 
 ⚠ Please note: The additional M.2 slot supports only PCIe NVMe drives, not SATA drives.
 
