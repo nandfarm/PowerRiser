@@ -25,6 +25,8 @@ PowerRiser is a custom-designed passive riser board that allows you to break out
 
 - ThinkStation P330 Tiny
 
+These boards are compatible with the following Levono riser FRU codes: 01AJ940, 01AJ902, 01AJ929. Basically if you are looking for any of the risers with the FRU codes mentioned above, this riser will do the same job and will allow you access to an extra 4 lane NVMe M.2 2230 or 2242 slot.
+
 ⚠ Please note: The additional M.2 slot supports only PCIe NVMe drives, not SATA drives.
 
 ## Background
