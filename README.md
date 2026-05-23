@@ -2,6 +2,8 @@
 
 ![Front view of V2 of the board](https://github.com/nandfarm/PowerRiser/blob/main/Photos/2025-05-22T19_36_39.707Z-Media%20(24).jpg)
 
+
+
 PowerRiser is a custom-designed passive riser board that allows you to break out the proprietary Lenovo Tiny 5 series PCIe connector into a standard open-ended x8 PCIe slot, while also providing an additional M.2 NVMe slot (2230/2242 sizes only) for further storage expansion. This board was specifically designed for select Lenovo Tiny 5 series systems (8th/9th gen), such as:
 
 - ThinkCentre M720q
@@ -12,11 +14,15 @@ PowerRiser is a custom-designed passive riser board that allows you to break out
 
 - ThinkStation P330 Tiny
 
-⚠ Please note: The additional M.2 slot supports only PCIe NVMe drives, not SATA drives.
+# Buy preassembled boards:
 
+Best for European locations (EUR currency)
 <a href="https://lectronz.com/stores/nandfarm" alt="I sell on Lectronz"><img src="https://lectronz-images.b-cdn.net/static/badges/i-sell-on-lectronz-small.png" /></a>
 
-<a href="https://www.tindie.com/stores/nandfarm/?ref=offsite_badges&utm_source=sellers_NandFarm&utm_medium=badges&utm_campaign=badge_small"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-smalls.png" alt="I sell on Tindie" width="200" height="55"></a>
+Best for International locations (USD currency)
+<a href="https://www.tindie.com/stores/nandfarm/?ref=offsite_badges&utm_source=sellers_NandFarm&utm_medium=badges&utm_campaign=badge_small"><img src="https://static.tindie.com/badges/tindie-smalls.png" alt="I sell on Tindie" width="200" height="55"></a>
+
+⚠ Please note: The additional M.2 slot supports only PCIe NVMe drives, not SATA drives.
 
 ## Background
 This project is inspired by the [TinyRiser](https://github.com/a-little-wifi/Tinyriser)  board originally designed by [WifiCable](https://x.com/wificable_). After building a batch of [TinyRisers](https://github.com/a-little-wifi/Tinyriser) for personal use and realizing some of my Lenovo Tiny systems had clearance issues (due to the WiFi/BT expansion boards), I decided to create my own variant — which I now call PowerRiser. If you are considering using 2260 or 2280 (with caution) NVMEs, please connect with [WifiCable](https://x.com/wificable_) for details on how to acquire the [TinyRiser](https://github.com/a-little-wifi/Tinyriser).
