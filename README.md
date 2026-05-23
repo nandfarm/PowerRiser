@@ -1,6 +1,8 @@
 # PowerRiser – Lenovo Tiny 5 PCIe & NVMe Riser Board
 
-![Front view of V2 of the board](https://github.com/nandfarm/PowerRiser/blob/main/Photos/2025-05-22T19_36_39.707Z-Media%20(24).jpg)
+![Front view of V2 of the board](https://github.com/nandfarm/PowerRiser/blob/main/Photos/powerriser-lenovo-riser-m2-nvme-main.jpg)
+</br>
+![Schematic of V2 of the board](https://github.com/nandfarm/PowerRiser/blob/main/Photos/powerriser-lenovo-riser-m2-nvme-schematic.jpg)
 
 # Buy preassembled boards:
 
@@ -45,6 +47,11 @@ NVMe drives supported: 2230 and 2242 sizes only.
 This riser is only compatible with the Lenovo Tiny 5 series models listed above.
 
 SATA M.2 drives are not supported on the added M.2 slot.
+
+The riser is cabable of accepting x16 PCIe boards but in order for them to be detected, the "PCIe_Detect" solder bridge on the back needs to be bridged.
+
+</br>
+![Speed test of the board](https://github.com/nandfarm/PowerRiser/blob/main/Photos/powerriser-lenovo-riser-m2-nvme-speed-test.jpg)
 
 ## Project Origin & Intent
 This project was built from personal need, trial, and experimentation and so far I have built about 20 boards for my own setups and for others. I hope it helps others facing the same limitations with their Lenovo Tiny builds.
