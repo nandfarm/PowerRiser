@@ -2,7 +2,8 @@
 
 ![Front view of V2 of the board](https://github.com/nandfarm/PowerRiser/blob/main/Photos/powerriser-lenovo-riser-m2-nvme-main.jpg)
 </br>
-![Schematic of V2 of the board](https://github.com/nandfarm/PowerRiser/blob/main/Photos/powerriser-lenovo-riser-m2-nvme-schematic.jpg)
+
+![Schematic of V2 of the board](https://github.com/nandfarm/PowerRiser/blob/main/Photos/powerriser-lenovo-riser-m2-nvme-schematic.png)
 
 # Buy preassembled boards:
 
@@ -51,6 +52,7 @@ SATA M.2 drives are not supported on the added M.2 slot.
 The riser is cabable of accepting x16 PCIe boards but in order for them to be detected, the "PCIe_Detect" solder bridge on the back needs to be bridged.
 
 </br>
+
 ![Speed test of the board](https://github.com/nandfarm/PowerRiser/blob/main/Photos/powerriser-lenovo-riser-m2-nvme-speed-test.jpg)
 
 ## Project Origin & Intent
