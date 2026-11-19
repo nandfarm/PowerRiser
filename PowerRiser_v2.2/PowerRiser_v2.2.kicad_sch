@@ -8738,7 +8738,7 @@
 	)
 	(wire
 		(pts
-			(xy 90.805 134.62) (xy 90.805 128.27)
+			(xy 93.345 134.62) (xy 93.345 128.27)
 		)
 		(stroke
 			(width 0)
@@ -9148,7 +9148,7 @@
 	)
 	(wire
 		(pts
-			(xy 88.265 134.62) (xy 88.265 128.27)
+			(xy 90.805 134.62) (xy 90.805 128.27)
 		)
 		(stroke
 			(width 0)
@@ -12587,7 +12587,7 @@
 	)
 	(global_label "~{CLK_REQ_NVME}"
 		(shape input)
-		(at 90.805 128.27 0)
+		(at 93.345 128.27 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -12597,7 +12597,7 @@
 		)
 		(uuid "9ee954a0-ebea-4f1e-9595-649b3d13e3e5")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 108.0625 128.27 0)
+			(at 110.6025 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12653,7 +12653,7 @@
 	)
 	(global_label "~{PCIE_RESET}"
 		(shape input)
-		(at 88.265 128.27 180)
+		(at 90.805 128.27 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -12663,7 +12663,7 @@
 		)
 		(uuid "a418a785-1d87-4f6c-9a41-653c055b5f7c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 74.2733 128.27 0)
+			(at 76.8133 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
